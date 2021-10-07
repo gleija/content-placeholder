@@ -1,14 +1,8 @@
-import NewTodo from './components/NewTodo';
-import Todos from './components/Todos';
-import TodosContextProvider from './store/todos-context';
+import React from 'react';
+import Placeholder from './components/Placeholder';
 
-function App() {
-  return (
-    <TodosContextProvider>
-      <NewTodo />
-      <Todos />
-    </TodosContextProvider>
-  );
-}
+const App: React.FunctionComponent = () => {
+  return <Placeholder />;
+};
 
 export default App;
