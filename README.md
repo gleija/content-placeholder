@@ -1,5 +1,5 @@
 <div align="center" >
-  <!-- <img src="social.png" alt="firebase" title="firebase" width="600px" /> -->
+  <!-- <img src="placeholder.gif" alt="firebase" title="firebase" width="600px" /> -->
 </div>
 
 ## Placeholder container
